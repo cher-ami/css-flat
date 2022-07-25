@@ -4,6 +4,9 @@
   "description": "Clean CSS-flat file written in pure CSS.",
   "main": "css-flat.css",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
